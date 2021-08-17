@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+#verdana{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-style: italic;
+}
+#paragrafo {
+    font-size: 30px;
+}

@@ -1,0 +1,13 @@
+#red {
+    background-color: green;
+    color: white;
+}
+body{
+    background-color: lightgreen;
+    background-image: url("https://www.animesxis.com.br/wp-content/uploads/2017/01/lelouch-vi-britannia.jpg");
+    background-repeat: no-repeat;
+    background-position: left right;
+    background-attachment: fixed;
+
+}
+
